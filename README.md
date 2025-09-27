@@ -1,4 +1,4 @@
-# CMU-CCS-Activities
+# CMU-COMPROG-Activities
 These are the activities of College of Computer Sciences (CCS) in College of Malabon University (CMU) and my source code for people interested.
 
 You can take these for preparation>:D
