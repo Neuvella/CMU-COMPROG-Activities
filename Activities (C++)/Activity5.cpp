@@ -5,8 +5,8 @@
 using namespace std;
 int main() {
 
-    float length, width;
-    int area, perimeter;
+    double length, width;
+    double area, perimeter;
 
     cout << "What is the length of the square?: ";
     cin >> length;
